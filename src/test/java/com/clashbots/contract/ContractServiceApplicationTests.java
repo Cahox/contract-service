@@ -1,13 +1,13 @@
-package com.clashbots.contract;
-
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
-
-@SpringBootTest
-class ContractServiceApplicationTests {
-
-	@Test
-	void contextLoads() {
-	}
-
-}
+//package com.clashbots.contract;
+//
+//import org.junit.jupiter.api.Test;
+//import org.springframework.boot.test.context.SpringBootTest;
+//
+//@SpringBootTest
+//class ContractServiceApplicationTests {
+//
+//	@Test
+//	void contextLoads() {
+//	}
+//
+//}
